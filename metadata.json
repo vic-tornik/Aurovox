@@ -1,0 +1,6 @@
+{
+  "name": "AuraVox: Emotional Audiobook Producer",
+  "description": "An advanced text-to-speech soundstage that analyzes narratives using Gemini to produce highly emotional, human-like voice acting and high-quality synthetic audiobooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
